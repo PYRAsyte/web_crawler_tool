@@ -46,7 +46,12 @@ Sometimes, web crawlers are used for data scraping, where the goal is to extract
   - argparse
   - requests
   - BeautifulSoup
-  - re## Usage
+  - re
+  - json
+  - urlparse
+  - parse_qs
+  - ThreadPoolExecutor
+  - RobotFileParser
 ## Usage
 1. **Open Command Line:** Open a terminal or command prompt and navigate to the directory where your web_crawler.py script is located.
 
