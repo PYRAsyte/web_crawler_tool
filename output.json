@@ -1,0 +1,354 @@
+{
+    "https://play.google.com/store/apps/details?id=com.cricbuzz.android": {
+        "id": [
+            "com.cricbuzz.android"
+        ]
+    },
+    "https://www.cricbuzz.com": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://support.google.com/a/answer/12129320?p=currentsfaq&visit_id=637801097348316846-2249159324&rd=2": {
+        "p": [
+            "currentsfaq"
+        ],
+        "visit_id": [
+            "637801097348316846-2249159324"
+        ],
+        "rd": [
+            "2"
+        ]
+    },
+    "https://googleblog.us5.list-manage.com/subscribe/post?u=dfee747f842ff45e675b4d1d9&id=a3262ab6a0": {
+        "EMAIL": "",
+        "b_dfee747f842ff45e675b4d1d9_a3262ab6a0": "",
+        "subscribe": "Subscribe"
+    },
+    "https://www.cricbuzz.com/": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-match/live-scores": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-schedule/upcoming-series/international": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-scorecard-archives": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/editorial/cb-plus": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/latest-news": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/info/": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/editorial/spotlight": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/editorial/editorial-list": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/editorial/specials": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/editorial/stats-analysis": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/editorial/interviews": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/editorial/live-blogs": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-news/experts/harsha-bhogle/170": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-schedule/series": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/8393/bangladesh-tour-of-india-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/6787/sri-lanka-tour-of-england-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/8652/maharaja-trophy-ksca-t20-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/8220/womens-caribbean-premier-league-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/7855/caribbean-premier-league-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/8495/bangladesh-tour-of-pakistan-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/7336/t20-blast-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-series/8552/australia-tour-of-scotland-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/india/2": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/afghanistan/96": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/ireland/27": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/pakistan/3": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/australia/4": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/sri-lanka/5": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/bangladesh/6": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/england/9": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/west-indies/10": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/south-africa/11": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/zimbabwe/12": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/new-zealand/13": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/malaysia/71": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/nepal/72": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/germany/77": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/namibia/161": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/denmark/185": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/singapore/190": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/papua-new-guinea/287": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/kuwait/298": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/vanuatu/300": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/jersey/303": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-team/fiji/343": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-videos": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-videos/categories": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-videos/playlists": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-stats/icc-rankings/men/batting": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-stats/icc-rankings/women/batting": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/cricket-stats/points-table/odi/icc-men-cricket-world-cup-super-league": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://play.google.com/store/apps/details?id=com.cricbuzz.android.vernacular": {
+        "id": [
+            "com.cricbuzz.android.vernacular"
+        ]
+    },
+    "https://www.cricbuzz.com/mobileapps": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/careers": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/info/contact": {
+        "uName": null,
+        "uEmail": null,
+        "uSubject": null,
+        "uImgupload": null
+    },
+    "https://www.cricbuzz.com/premium-subscription/user/account-info": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/103818/gbm-vs-blb-semi-final-1-1-v-4-maharaja-trophy-ksca-t20-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/101032/pak-vs-ban-2nd-test-bangladesh-tour-of-pakistan-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/92667/abf-vs-snp-1st-match-caribbean-premier-league-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/76514/eng-vs-sl-2nd-test-england-v-sri-lanka-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/101032/pak-vs-ban-2nd-test-pakistan-v-bangladesh-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/102655/den-vs-ggy-final-icc-mens-europe-t20wcqc": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/105594/mmr-vs-hk-2nd-match-icc-mens-t20-wcq-asia-a": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/105588/mly-vs-mdv-1st-match-icc-mens-t20-wcq-asia-a": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/105602/kuw-vs-mgl-3rd-match-icc-mens-t20-wcq-asia-a": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/105610/mly-vs-mmr-5th-match-icc-mens-t20-wcq-asia-a": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/105604/mdv-vs-sin-4th-match-icc-mens-t20-wcq-asia-a": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/105612/hk-vs-mgl-6th-match-icc-mens-t20-wcq-asia-a": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/103798/sml-vs-blb-28th-match-ksca-t20-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/103800/blb-vs-md-29th-match-ksca-t20-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/103809/ht-vs-gbm-30th-match-ksca-t20-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/103827/mw-vs-ht-semi-final-2-2-v-3-ksca-t20-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/103836/tbc-vs-tbc-final-ksca-t20-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/92667/abf-vs-snp-1st-match-cpl-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/92669/abf-vs-gaw-2nd-match-cpl-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/92689/snp-vs-tkr-3rd-match-cpl-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/92712/abf-vs-br-4th-match-cpl-2024": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/84450/kent-vs-warks-55th-match-county-division-1": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/84443/som-vs-dur-54th-match-county-division-1": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/84436/sur-vs-notts-53rd-match-county-division-1": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/84429/ham-vs-lancs-52nd-match-county-division-1": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/84422/worcs-vs-ess-51st-match-county-division-1": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/85482/leic-vs-glam-41st-match-county-division-2": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/live-cricket-scores/85496/yorks-vs-mdx-44th-match-county-division-2": {
+        "uName": null
+    },
+    "https://www.cricbuzz.com/cricket-fantasy-handbook/92669/abf-vs-gaw-2nd-match-caribbean-premier-league-2024": {
+        "search": "suggest.title",
+        "anticsrf": "bowled"
+    }
+}
