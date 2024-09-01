@@ -58,7 +58,7 @@ Sometimes, web crawlers are used for data scraping, where the goal is to extract
 2. **Run the Script:** Use the following command to run the web crawler, providing the target URL and any options:
 
   ```bash
-  python web_crawler.py https://example.com -o output.json -t 10
+  python web_crawler.py https://example.com <output_name.json> -thread 10
   ```
   - *URL:* Replace https://example.com with the URL you want to crawl.
   - *-o (Output File):* Specify the name of the output file (e.g., output.json).
